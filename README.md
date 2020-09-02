@@ -1,14 +1,10 @@
-# flyGUI: DAM1 data edit tool
-Latest release
-License
+# flyGUI: DAM1 
+![build](https://img.shields.io/badge/build-passing-brightgreen)
+[![version](https://img.shields.io/badge/version-0.6.1-yellow.svg)](https://semver.org)
+
 ## Introduction
-applications that have end users toeasy to do
-interpret raw tables cne data of true wine fly activities before and after
-administration of psychostimulants. In the application is the price of choosing the choice of tabular data-
-such, transforming and storing them into new formats. The app offers visualization
-Experiment more on data within different time intervals and comparison of results. Expression statistics (average, normal) are collected over the selected data
-deviation) and visualization. The processing results are displayed to the user throughout and to the user
-offers the choice of displaying data according to the user's needs.
+Software in Python that enables end users to interpret raw tables of DAM1 recorded data of fruit fly activity, before and after
+administration of psychostimulants. 
 ## Installation required packages on Windows
 ```
 pip install matplotlib
