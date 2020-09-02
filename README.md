@@ -6,11 +6,12 @@
 Software in Python that enables end users to interpret raw tables of DAM1 recorded data of fruit fly activity, before and after
 administration of psychostimulants. 
 ## Installation required packages on Windows
+python version: 3.8.5 
 ```
-pip install matplotlib
-pip install pandas
-pip install tkinter
-pip install PyQt5
+pip install tkinter==8.6
+pip install pandas==1.1.1
+pip install matplotlib==3.2.2
+pip install openpyxl==3.0.5
 ```
 ## How to start
 First you need launch the Command Prompt. A fast way to launch this window is to press the *Win + R* keys on your keyboard. Then, type *cmd* and press Enter or click/tap OK.
